@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+aaaaaa
+bbbbbbbb kykyestla non c'est faux si c'est vrai
+=======
 voici un fichier interessant
+>>>>>>> 822583980dda678a2094fe1671604f7fae217d8d
 
